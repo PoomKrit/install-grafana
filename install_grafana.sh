@@ -17,4 +17,3 @@ sudo yum repolist
 sudo yum install -y grafana
 sudo systemctl enable grafana-server.service
 sudo systemctl start grafana-server.service
-# 
